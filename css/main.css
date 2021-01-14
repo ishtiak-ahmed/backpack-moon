@@ -17,6 +17,9 @@ header,
 #feature {
   background-color: #fffff4;
 }
+.navbar-brand img {
+  height: 50px;
+}
 
 .feature h1 {
   text-transform: uppercase;
@@ -137,6 +140,9 @@ footer h2 {
   #travel .row {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+  }
+  .navbar-brand img {
+    height: 40px;
   }
   h1 {
     text-align: center;
