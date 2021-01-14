@@ -147,6 +147,9 @@ footer h2 {
   .banner-item {
     text-align: center;
   }
+  footer {
+    padding: 50px;
+  }
 }
 @media (max-width: 768px) {
   #casual .row,
